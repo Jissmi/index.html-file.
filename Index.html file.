@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ACTIVITY NO.8</title>
+	</head>
+	<body>
+	  <body style="background-color: lightpink;">
+</body>
+	  
+    <div align=center></div>
+</style>
+<table align=center border="3px">
+<th bgcolor="#ECD5E3" colspan="9"><h1>SWEET BAKERY</h1></th>
+<tr>
+<th bgcolor="#FEE1E8"> CUPCAKES</th>
+<th bgcolor="#FEE1E8"> IMAGE</th>
+<th bgcolor="#FEE1E8"> PRICE</th>
+<th bgcolor="#FEE1E8"> CAKES</th>
+<th bgcolor="#FEE1E8"> IMAGE</th>
+<th bgcolor="#FEE1E8"> PRICE</th>
+<th bgcolor="FEE1E8">  BREAD</th>
+<th bgcolor="#FEE1E8"> IMAGE</th>
+<th bgcolor="#FEE1E8"> PRICE</th>
+</tr>
+<td bgcolor="#EAC6C2">CHOCOLATE CUPCAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://i0.wp.com/gwennsbakery.nl/wp-content/uploads/2019/06/Chocolade-cupcakes-Gwenns-Bakery.jpg?resize=833%2C540&ssl=1" style="height:150px;width:200px"></td>
+<td bgcolor="#EAC6C2">₱40</td>
+<td bgcolor="#EAC6C2">CHOCOLATE CAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://thenovicechefblog.com/wp-content/uploads/2013/08/Chocolate-and-Peanut-Butter-Dream-Cake-1-sm.jpg" style="height:150px;width:200px">
+<td bgcolor="#EAC6C2">₱300</td>
+<td bgcolor="#EAC6C2">Choco Bread</td>
+<td> <img src="https://www.sugarsaltmagic.com/wp-content/uploads/2017/02/Quick-Chocolate-Bread-9-680x680.jpg"  style="height:150px;width:200px"></td>
+<td bgcolor="#EAC6C2">₱150</td>
+</tr>
+<td bgcolor="#EAC6C2">VANILLA CUPCAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://sallysbakingaddiction.com/wp-content/uploads/2014/06/chocolate-cupcakes-with-vanilla-frosting-and-sprinkles-2.jpg" style="height:150px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱300</td>
+<td bgcolor="#EAC6C2">VANILLA CAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://veenaazmanov.com/wp-content/uploads/2019/09/Homemade-Vanilla-Birthday-Cake30.jpg" style="height:150px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱150</td>
+<td bgcolor="#EAC6C2">Vanilla Bread</td>
+<td bgcolor="#EAC6C2"><img src="https://www.simplyrecipes.com/thmb/nFGr1ObQ9f1Y1z3PNwoRtrjZ6-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__06__Vanilla-Pound-Cake-LEAD-VERTICAL-3a2b532e32c24762a5d196b5a96f5060.jpg" style="height:150px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱150</td>
+</tr>
+<td bgcolor="#EAC6C2">STRAWBERRY CUPCAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://celebratingsweets.com/wp-content/uploads/2021/02/Strawberry-Cupcakes-1-3.jpg" style="height:150px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱40</td>
+<td bgcolor="#EAC6C2">STRAWBERRY CAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://aclassictwist.com/wp-content/uploads/2020/08/Fresh-Strawberry-Cake-with-Strawberry-Frosting-2.jpg" style="height:200px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱40</td>
+<td bgcolor="#EAC6C2"></td></td>
+<td bgcolor="#EAC6C2"> <img src="https://www.familyfreshmeals.com/wp-content/uploads/2020/10/Cranberry-Orange-Bread-44a.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+<tr>
+<td bgcolor="#EAC6C2">ORANGE CUPCAKE</td>
+  <td bgcolor="#EAC6C2"> <img src="https://www.nithaskitchen.com/wp-content/uploads/2020/12/orange_cream9_L.jpg" style="height:150px;width:200px"</td>
+<td bgcolor="#EAC6C2">₱40</td>
+<td bgcolor="#EAC6C2">ORANGE CAKE</td>
+<td bgcolor="#EAC6C2"> <img src="https://bakingbites.com/wp-content/uploads/2007/08/oragecake.jpg" style="height:100px;width:200px"</td>
+<td bgcolor="#EAC6C2">$5</td>
+</tr>
+</table>
+  </body>
+</html>
